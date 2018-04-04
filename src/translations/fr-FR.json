@@ -1,16 +1,16 @@
 {
-  "APP_NAME": "poezie.ro",
-  "About": "A propos",
-  "Hello world !": "Bonjour le monde !",
-  "Home": "Accueil",
+  "APP_NAME": "app.poezie.ro",
+  "Despre": "A propos",
+  "Neața!": "Bonjour le monde !",
+  "Poezie": "Accueil",
   "Logged in as": "Connecté en tant que",
   "Login": "Connexion",
   "Logout": "Déconnexion",
-  "Password": "Mot de passe",
-  "Password is required": "Mot de passe requis",
-  "Username": "Identifiant",
-  "Username is required": "Identifiant requis",
-  "Username or password incorrect.": "Identifiant ou mot de passe incorrect.",
-  "Remember me": "Rester connecté",
-  "Version": "Version"
+  "Parolă": "Mot de passe",
+  "Nu ai introdus parola": "Mot de passe requis",
+  "Utilizator": "Identifiant",
+  "Numele de utilizator este obligatoriu": "Identifiant requis",
+  "Utilizator sau parolă incorecte.": "Identifiant ou mot de passe incorrect.",
+  "Ține-mă minte": "Rester connecté",
+  "Versiune": "Version"
 }

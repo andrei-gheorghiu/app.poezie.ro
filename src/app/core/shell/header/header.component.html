@@ -14,6 +14,7 @@
              routerLink="{{item.url || '/home'}}"
              [queryParams]="item.url? {}:{p:item.slug}"
              routerLinkActive="active"
+             translate
           >{{item.title}}</a>
         </div>
       </div>

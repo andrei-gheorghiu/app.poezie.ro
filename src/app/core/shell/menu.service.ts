@@ -13,73 +13,73 @@ export class MenuService {
   private static setMenu(): MenuItem[] {
     return [
       {
-        title: 'Poezie',
+        title: 'm.poezie',
         slug: 'poezie'
       },
       {
-        title: 'Personale',
+        title: 'm.personale',
         slug: 'personale'
       },
       {
-        title: 'Proză',
+        title: 'm.proza',
         slug: 'proza'
       },
       {
-        title: 'Scenariu',
+        title: 'm.scenariu',
         slug: 'scenariu',
         items: [
           {
-            title: 'Acțiune',
+            title: 'm.scenariu.actiune',
             slug: 'actiune'
           },
           {
-            title: 'Comedie',
+            title: 'm.scenariu.comedie',
             slug: 'comedie'
           },
           {
-            title: 'Dramă',
+            title: 'm.scenariu.drama',
             slug: 'drama'
           },
           {
-            title: 'Scurt metraj',
+            title: 'm.scenariu.scurtmetraj',
             slug: 'scurt-metraj'
           },
           {
-            title: 'Teatru',
+            title: 'm.scenariu.teatru',
             slug: 'teatru'
           }
         ]
       },
       {
-        title: 'Eseu',
+        title: 'm.eseu',
         slug: 'eseu'
       },
       {
-        title: 'Presă',
+        title: 'm.presa',
         slug: 'presa'
       },
       {
-        title: 'Articol',
+        title: 'm.articol',
         slug: 'articol'
       },
       {
-        title: 'Comunități',
+        title: 'm.comunitati',
         slug: 'comunitati'
       },
       {
-        title: 'Concurs',
+        title: 'm.concurs',
         slug: 'concurs'
       },
       {
-        title: 'Special',
+        title: 'm.special',
         slug: 'special'
       },
       {
-        title: 'Tehnică literară',
+        title: 'm.tehnicaliterara',
         slug: 'tehnica-literara'
       },
       {
-        title: 'Multimedia',
+        title: 'm.multimedia',
         slug: 'multimedia'
       },
     ];

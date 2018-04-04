@@ -1,0 +1,16 @@
+{
+  "APP_NAME": "poezie",
+  "About": "Despre",
+  "Hello world !": "Neața!",
+  "Home": "Poezie",
+  "Logged in as": "Bună, ",
+  "Login": "Login",
+  "Logout": "Logout",
+  "Password": "Parolă",
+  "Password is required": "Parola este obligatorie",
+  "Username": "Utilizator",
+  "Username is required": "Numele de utilizator este obligatoriu",
+  "Username or password incorrect.": "Utilizator sau parolă incorecte.",
+  "Remember me": "Ține-mă minte",
+  "Version": "Versiune"
+}

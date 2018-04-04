@@ -4,8 +4,8 @@ import { Subject } from 'rxjs/Subject';
 
 import { extract, I18nService } from './i18n.service';
 
-const defaultLanguage = 'en-US';
-const supportedLanguages = ['eo', 'en-US', 'fr-FR'];
+const defaultLanguage = 'ro-RO';
+const supportedLanguages = ['eo', 'en-US', 'fr-FR', 'ro-RO'];
 
 class MockTranslateService {
 
